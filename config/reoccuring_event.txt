@@ -1,0 +1,18 @@
+SELECT DISTINCT ?event ?eventLabel ?frequency ?frequencyLabel ?startTime ?endTime ?wikipediaPage WHERE {
+  # Find recurring events
+  ?event wdt:P31 ?eventType .
+  VALUES ?eventType { 
+    wd:Q1190554   # event
+    wd:Q16510064  # sports championship
+    wd:Q500834    # sports season
+    wd:Q15275719  # recurring sporting event
+    wd:Q28314507  # film festival
+  }
+  
+  # Wikipedia page compulsory
+  ?wikipediaPage schema:about ?event ;
+                 schema:isPartOf <https://en.wikipedia.org/> .
+  
+  # Get labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}

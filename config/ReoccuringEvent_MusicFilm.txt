@@ -1,0 +1,26 @@
+SELECT DISTINCT ?event ?eventLabel ?eventType ?eventTypeLabel ?genre ?genreLabel ?wikipediaPage WHERE {
+  # Define event types for festivals
+  VALUES ?eventType { 
+    wd:Q132241   # music festival
+    wd:Q220505   # film festival
+  }
+  
+  # Base event pattern
+  ?event wdt:P31 ?eventType .
+  
+  # Must be recurring event
+  ?event wdt:P31 wd:Q18608583 .
+  
+  # Optional temporal frequency
+  OPTIONAL { ?event wdt:P2257 ?frequency . }
+  
+  # Optional genre classification
+  OPTIONAL { ?event wdt:P136 ?genre . }
+  
+  # Wikipedia page (compulsory)
+  ?wikipediaPage schema:about ?event ;
+                 schema:isPartOf <https://en.wikipedia.org/> .
+  
+  # Labels
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" . }
+}

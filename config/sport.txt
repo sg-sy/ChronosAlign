@@ -1,0 +1,20 @@
+SELECT DISTINCT ?event ?eventLabel ?wikipediaPage WHERE {
+  # Find sporting events
+  ?event wdt:P31/wdt:P279* wd:Q1656682 .
+  ?event wdt:P31 ?eventType .
+  ?event wdt:P2257 ?interval .  # event interval
+
+  # Get sport type
+  OPTIONAL { ?event wdt:P641 ?sport . }
+
+  # Require Wikipedia page
+  ?wikipediaPage schema:about ?event ;  # Fixed ?list to ?event
+                 schema:isPartOf <https://en.wikipedia.org/> .
+
+  # Get labels
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "en" .
+    ?event rdfs:label ?eventLabel .
+  }
+}
+ORDER BY ?eventLabel  # Add ordering for better results organization

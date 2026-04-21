@@ -1,0 +1,41 @@
+SELECT DISTINCT ?event ?eventLabel ?inception ?frequency ?frequencyLabel ?wikipediaPage
+WHERE {
+  # Find recurring events
+  {
+    # Events with explicit frequency
+    ?event wdt:P2257 ?frequency .
+    ?frequency wdt:P279* ?freqType .
+    VALUES ?freqType { wd:Q577 wd:Q5151 wd:Q15911314 }  # yearly, monthly, annual
+  }
+  UNION 
+  {
+    # Direct instances of recurring event types
+    ?event wdt:P31 ?eventType .
+    VALUES ?eventType { 
+      wd:Q18340550   # recurring event
+      wd:Q1445650    # holiday
+      wd:Q132241     # festival
+      wd:Q1070106    # anniversary
+      wd:Q1968893    # observance
+    }
+  }
+
+  # Get inception date
+  ?event wdt:P571 ?inception .
+  
+  # Filter for events from 2000 onwards
+  FILTER(?inception >= "2000-01-01T00:00:00Z"^^xsd:dateTime)
+  
+  # Require Wikipedia page
+  ?wikipediaPage schema:about ?event ;
+                 schema:isPartOf <https://en.wikipedia.org/> .
+
+  # Get labels
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "en" .
+    ?event rdfs:label ?eventLabel .
+    ?frequency rdfs:label ?frequencyLabel .
+  }
+}
+ORDER BY DESC(?inception)
+LIMIT 500

@@ -1,0 +1,18 @@
+SELECT DISTINCT ?list ?listLabel ?wikipediaPage WHERE {
+  VALUES ?eventType { wd:Q13406463 }
+  ?list wdt:P31 ?eventType .
+  
+  # Wikipedia page compulsory
+  ?wikipediaPage schema:about ?list ;
+                 schema:isPartOf <https://en.wikipedia.org/> .
+  
+  # Lists of tornadoes, earthquakes, and cyclones
+  ?list wdt:P360 ?disaster .
+  VALUES ?disaster {
+    wd:Q8081     # tornado
+    wd:Q7944     # earthquake
+    wd:Q8092     # cyclone
+  }
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" . }
+}

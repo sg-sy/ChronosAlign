@@ -1,0 +1,22 @@
+SELECT DISTINCT ?event ?eventLabel ?eventType ?eventTypeLabel ?sport ?sportLabel ?wikipediaPage WHERE {
+  # Use VALUES clause first for better filtering
+  VALUES ?eventType { wd:Q18608583 wd:Q15275719 }
+  
+  # Direct instance check without subclass traversal
+  ?event wdt:P31 ?eventType .
+  
+  # Combine Wikipedia page check early to filter out irrelevant results
+  ?wikipediaPage schema:about ?event ;
+                 schema:isPartOf <https://en.wikipedia.org/> .
+                 
+  # Optional sport property after main filtering
+  OPTIONAL { ?event wdt:P641 ?sport . }
+  
+  # Label service last since it's most expensive
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "en" . 
+    ?event rdfs:label ?eventLabel .
+    ?eventType rdfs:label ?eventTypeLabel .
+    ?sport rdfs:label ?sportLabel .
+  }
+}

@@ -1,0 +1,46 @@
+# Core dependencies
+requests>=2.31.0
+pyyaml>=6.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Wikidata and SPARQL
+sparqlwrapper>=2.0.0
+rdflib>=6.3.0
+pyarrow>=21.0.0
+
+# Data processing
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Logging and utilities
+tqdm>=4.65.0
+click>=8.1.0
+jsonlines>=3.1.0
+
+# Web scraping and parsing
+beautifulsoup4>=4.12.0
+
+# AI API integration
+python-dotenv>=1.0.0
+anthropic>=0.7.0
+openai>=1.0.0
+google-genai>=1.0.0
+transformers>=4.40.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Optional: Jupyter for exploration
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0 
+
+# Inference and benchmarking
+vllm>=0.6.0  # requires CUDA

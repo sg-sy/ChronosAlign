@@ -1,0 +1,14 @@
+SELECT DISTINCT ?award ?awardLabel ?startDate ?endDate ?wikipediaPage WHERE {
+  # Find awards and subtypes
+  ?award wdt:P31/wdt:P279* wd:Q618779 .
+  
+  # Get temporal information if available 
+  OPTIONAL { ?award wdt:P580 ?startDate . }  # start date
+  OPTIONAL { ?award wdt:P582 ?endDate . }    # end date
+  
+  # Wikipedia page compulsory
+  ?wikipediaPage schema:about ?award ;
+                 schema:isPartOf <https://en.wikipedia.org/> .
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}
