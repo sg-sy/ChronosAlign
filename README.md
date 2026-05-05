@@ -2,6 +2,10 @@
 
 This repository contains scripts to extract time-sensitive question-answer relationships from Wikidata for research on temporal alignment in AI models.
 
+
+> **Note:** To test the update procedure, go to `6. update_qv_answers.ipynb`.
+
+
 ## Environment Variables (`.env`)
 
 This project uses a local `.env` file to store API keys used by the notebooks and utility scripts. Keeping keys in `.env` avoids hardcoding secrets in code.
