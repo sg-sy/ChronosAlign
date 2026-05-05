@@ -1,5 +1,5 @@
 event_year,event_date,subject,relationship,answer,question,raw_content,parse_error,event,eventLabel,url,success,title,content,error,content_length,wikipedia_url_id,views,categories,relative_question,id
-2024.0,,['Tour de France'],winner,['Tadej Pogačar'],who was the winner of the tour de france?,,,http://www.wikidata.org/entity/Q462671,list of Tour de France winners,https://en.wikipedia.org/wiki/List_of_Tour_de_France_general_classification_winners,True,List of Tour de France general classification winners,"Title: List of Tour de France general classification winners
+2024,,['Tour de France'],winner,['Tadej Pogačar'],who was the winner of the tour de france?,,,http://www.wikidata.org/entity/Q462671,list of Tour de France winners,https://en.wikipedia.org/wiki/List_of_Tour_de_France_general_classification_winners,TRUE,List of Tour de France general classification winners,"Title: List of Tour de France general classification winners
 
 Content:
 The Tour de France is an annual road bicycle race held over 23 days in July. Established in 1903 by newspaper L'Auto, the Tour is the best-known and most prestigious of cycling's three ""Grand Tours""; the others are the Giro d'Italia and the Vuelta a España. The race usually covers approximately 3,500 kilometres (2,200 mi), passing through France and neighbouring countries such as Belgium. The race is broken into day-long stages. Individual finishing times for each stage are totalled to determine the overall winner at the end of the race. The course changes every year, but has finished in Paris every year except 2024, when it finished in Nice. Since 1975, it has finished along the Champs-Élysées.
@@ -216,8 +216,8 @@ Table 4:
 | Colombia | 1 | 1 |
 
 
-Categories: Wikimedia Commons, Tour de France classifications and awards, Tour de France winners, Lists of cyclists, Tour de France-related lists",,21711,sl6egxw7xt1d4qnjbsa04lqnklntkyr03bd8rgv225k72tqxs,706521.0,sport,Who is the most recent winner of the tour de france?,7126
-2024.0,,['Tour de France'],distance,"['3,498 km']",what was the distance of the tour de france?,,,http://www.wikidata.org/entity/Q462671,list of Tour de France winners,https://en.wikipedia.org/wiki/List_of_Tour_de_France_general_classification_winners,True,List of Tour de France general classification winners,"Title: List of Tour de France general classification winners
+Categories: Wikimedia Commons, Tour de France classifications and awards, Tour de France winners, Lists of cyclists, Tour de France-related lists",,21711,sl6egxw7xt1d4qnjbsa04lqnklntkyr03bd8rgv225k72tqxs,706521,sport,Who is the most recent winner of the tour de france?,7126
+2024,,['Tour de France'],distance,"['3,498 km']",what was the distance of the tour de france?,,,http://www.wikidata.org/entity/Q462671,list of Tour de France winners,https://en.wikipedia.org/wiki/List_of_Tour_de_France_general_classification_winners,TRUE,List of Tour de France general classification winners,"Title: List of Tour de France general classification winners
 
 Content:
 The Tour de France is an annual road bicycle race held over 23 days in July. Established in 1903 by newspaper L'Auto, the Tour is the best-known and most prestigious of cycling's three ""Grand Tours""; the others are the Giro d'Italia and the Vuelta a España. The race usually covers approximately 3,500 kilometres (2,200 mi), passing through France and neighbouring countries such as Belgium. The race is broken into day-long stages. Individual finishing times for each stage are totalled to determine the overall winner at the end of the race. The course changes every year, but has finished in Paris every year except 2024, when it finished in Nice. Since 1975, it has finished along the Champs-Élysées.
@@ -434,8 +434,8 @@ Table 4:
 | Colombia | 1 | 1 |
 
 
-Categories: Wikimedia Commons, Tour de France classifications and awards, Tour de France winners, Lists of cyclists, Tour de France-related lists",,21711,sl6egxw7xt1d4qnjbsa04lqnklntkyr03bd8rgv225k72tqxs,706521.0,sport,What was the distance of the most recent tour de france?,7126
-2024.0,,['Tour de France Mountains Classification'],winner,['Richard Carapaz'],who was the winner of the Tour de France Mountains Classification?,,,,,https://en.wikipedia.org/wiki/Mountains_classification_in_the_Tour_de_France,True,Mountains classification in the Tour de France,"Title: Mountains classification in the Tour de France
+Categories: Wikimedia Commons, Tour de France classifications and awards, Tour de France winners, Lists of cyclists, Tour de France-related lists",,21711,sl6egxw7xt1d4qnjbsa04lqnklntkyr03bd8rgv225k72tqxs,706521,sport,What was the distance of the most recent tour de france?,7126
+2024,,['Tour de France Mountains Classification'],winner,['Richard Carapaz'],who was the winner of the Tour de France Mountains Classification?,,,,,https://en.wikipedia.org/wiki/Mountains_classification_in_the_Tour_de_France,TRUE,Mountains classification in the Tour de France,"Title: Mountains classification in the Tour de France
 
 Content:
 The mountains classification is a secondary competition in the Tour de France, that started in 1933. It is given to the rider that gains the most points for reaching mountain summits first. The leader of the classification is named the King of the Mountains, and since 1975 wears the polka dot jersey (French: maillot à pois rouges), a white jersey with red polka dots.
@@ -725,8 +725,8 @@ Table 7:
 | Charly Gaul | 20 | 20 |
 
 
-Categories: Wikimedia Commons, link, Mountains classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19405,4m3x3mz2pz4spaielm2l9lofxu5nejm8ti5lfowpp1mw0rwq6o,81653.0,sport,Who was the most recent winner of the Tour de France Mountains Classification?,43294
-2024.0,,['Tour de France Points Classification'],winner,['Biniam Girmay'],who won the points classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France,True,Points classification in the Tour de France,"Title: Points classification in the Tour de France
+Categories: Wikimedia Commons, link, Mountains classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19405,4m3x3mz2pz4spaielm2l9lofxu5nejm8ti5lfowpp1mw0rwq6o,81653,sport,Who was the most recent winner of the Tour de France Mountains Classification?,43294
+2024,,['Tour de France Points Classification'],winner,['Biniam Girmay'],who won the points classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France,TRUE,Points classification in the Tour de France,"Title: Points classification in the Tour de France
 
 Content:
 The points classification (French: classement par points) is a secondary competition in the Tour de France, which started in 1953. Points are given for high finishes in a stage and for winning intermediate sprints, and these are recorded in a points classification. It is considered a sprinters' competition. The leader is indicated by a green jersey (French: maillot vert), which has become a metonym for the points classification competition.
@@ -959,8 +959,8 @@ Table 7:
 | Laurent Jalabert(FRA) | 25 | 25 |
 
 
-Categories: Wikimedia Commons, contradictory, Points classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19458,3q4pc9pvduiv92hpw2yg7ar7mmvfjqne9ldqm5xq1tir172d2u,122283.0,sport,Who won the points classification in the most recent Tour de France?,43654
-2024.0,,['Tour de France Points Classification'],second_place,['Jasper Philipsen'],who finished second in the points classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France,True,Points classification in the Tour de France,"Title: Points classification in the Tour de France
+Categories: Wikimedia Commons, contradictory, Points classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19458,3q4pc9pvduiv92hpw2yg7ar7mmvfjqne9ldqm5xq1tir172d2u,122283,sport,Who won the points classification in the most recent Tour de France?,43654
+2024,,['Tour de France Points Classification'],second_place,['Jasper Philipsen'],who finished second in the points classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France,TRUE,Points classification in the Tour de France,"Title: Points classification in the Tour de France
 
 Content:
 The points classification (French: classement par points) is a secondary competition in the Tour de France, which started in 1953. Points are given for high finishes in a stage and for winning intermediate sprints, and these are recorded in a points classification. It is considered a sprinters' competition. The leader is indicated by a green jersey (French: maillot vert), which has become a metonym for the points classification competition.
@@ -1193,8 +1193,8 @@ Table 7:
 | Laurent Jalabert(FRA) | 25 | 25 |
 
 
-Categories: Wikimedia Commons, contradictory, Points classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19458,3q4pc9pvduiv92hpw2yg7ar7mmvfjqne9ldqm5xq1tir172d2u,122283.0,sport,Who most recently finished second in the points classification in the Tour de France?,43654
-2024.0,,['Tour de France Points Classification'],third_place,['Bryan Coquard'],who finished third in the points classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France,True,Points classification in the Tour de France,"Title: Points classification in the Tour de France
+Categories: Wikimedia Commons, contradictory, Points classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19458,3q4pc9pvduiv92hpw2yg7ar7mmvfjqne9ldqm5xq1tir172d2u,122283,sport,Who most recently finished second in the points classification in the Tour de France?,43654
+2024,,['Tour de France Points Classification'],third_place,['Bryan Coquard'],who finished third in the points classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France,TRUE,Points classification in the Tour de France,"Title: Points classification in the Tour de France
 
 Content:
 The points classification (French: classement par points) is a secondary competition in the Tour de France, which started in 1953. Points are given for high finishes in a stage and for winning intermediate sprints, and these are recorded in a points classification. It is considered a sprinters' competition. The leader is indicated by a green jersey (French: maillot vert), which has become a metonym for the points classification competition.
@@ -1427,8 +1427,8 @@ Table 7:
 | Laurent Jalabert(FRA) | 25 | 25 |
 
 
-Categories: Wikimedia Commons, contradictory, Points classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19458,3q4pc9pvduiv92hpw2yg7ar7mmvfjqne9ldqm5xq1tir172d2u,122283.0,sport,Who most recently finished third in the points classification in the Tour de France?,43654
-2024.0,,['Tour de France'],team classification winner,['UAE Team Emirates'],which team won the team classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Team_classification_in_the_Tour_de_France,True,Team classification in the Tour de France,"Title: Team classification in the Tour de France
+Categories: Wikimedia Commons, contradictory, Points classification in the Tour de France, Tour de France classifications and awards, Cycling jerseys",,19458,3q4pc9pvduiv92hpw2yg7ar7mmvfjqne9ldqm5xq1tir172d2u,122283,sport,Who most recently finished third in the points classification in the Tour de France?,43654
+2024,,['Tour de France'],team classification winner,['UAE Team Emirates'],which team won the team classification in the Tour de France?,,,,,https://en.wikipedia.org/wiki/Team_classification_in_the_Tour_de_France,TRUE,Team classification in the Tour de France,"Title: Team classification in the Tour de France
 
 Content:
 The team classification is a prize given in the Tour de France to the best team in the race. It has been awarded since 1930, and the calculation has changed throughout the years. There is no coloured jersey for this, but the numbers on the jerseys of the members of the team with the best performance in the general classification at the end of the previous stage are against a yellow background instead of white.
@@ -1642,8 +1642,8 @@ Table 7:
 | 1988 | PDM–Ultima–Concorde |
 
 
-Categories: Tour de France classifications and awards, Webarchive template wayback links, Articles with French-language sources (fr), Articles with short description, Short description matches Wikidata",,7006,5tzollwlrkayusokqclk6icma12bhuw06cj9gd2xc3nc3tjx0,17075.0,sport,Which team won the most recent team classification in the Tour de France?,44670
-2024.0,,['Tour de France Combativity Award'],winner,['Richard Carapaz'],who won the Tour de France combativity award?,,,,,https://en.wikipedia.org/wiki/Combativity_award_in_the_Tour_de_France,True,Combativity award in the Tour de France,"Title: Combativity award in the Tour de France
+Categories: Tour de France classifications and awards, Webarchive template wayback links, Articles with French-language sources (fr), Articles with short description, Short description matches Wikidata",,7006,5tzollwlrkayusokqclk6icma12bhuw06cj9gd2xc3nc3tjx0,17075,sport,Which team won the most recent team classification in the Tour de France?,44670
+2024,,['Tour de France Combativity Award'],winner,['Richard Carapaz'],who won the Tour de France combativity award?,,,,,https://en.wikipedia.org/wiki/Combativity_award_in_the_Tour_de_France,TRUE,Combativity award in the Tour de France,"Title: Combativity award in the Tour de France
 
 Content:
 The combativity award is a prize given in the Tour de France for the most combative rider overall during the race. Historically, it favored constant attackers as it was based on the distance spent in a breakaway, included winning checkpoints and outright stage wins. Today, the winner is chosen by a jury. Besides the overall winner, the jury also awards a combativity award to the most aggressive rider at the end of each stage, with this rider allowed to wear a golden number the following race day.
@@ -1766,294 +1766,4 @@ Table 1:
 | 2025 | Ireland | Ben Healy | EF Education–EasyPost |
 
 
-Categories: Tour de France classifications and awards, Cycling jerseys, CS1 Dutch-language sources (nl), CS1 French-language sources (fr), All articles with dead external links",,6855,63itqcl85vwpibv916uqoay1e1tn17hct9cs9x926tcse188ae,29669.0,sport,Who won the most recent Tour de France combativity award?,46267
-2024.0,,['Tour de France 2024'],points classification winner,['Biniam Girmay'],who won the points classification?,,,,,https://en.wikipedia.org/wiki/List_of_Tour_de_France_secondary_classification_winners,True,List of Tour de France secondary classification winners,"Title: List of Tour de France secondary classification winners
-
-Content:
-The Tour de France is a road cycling stage race held since 1903 over a current period of three weeks, although it was not staged from 1915 to 1918 and from 1940 to 1946, because of the First World War and Second World War respectively.
-
-The winner of the Tour de France is determined by the general classification. In addition, there are some secondary classifications. The mountains classification, first calculated in 1933 and first associated with the polkadot jersey in 1975; 
-To celebrate the 50th anniversary of the race in 1953, the points classification was reintroduced, having previously been the main classification from 1905 to 1912 inclusive. It rewarded the consistent finishers in individual stages by awarding points depending on the placing at the end of the stage and, from 1966 onwards, at any designated intermediate points along the route. From 1966 to 1989 inclusive, a separate classification was included solely for points awarded at these intermediate 'hot spots' or 'sprints' and from 1984 onward associated with the award of a red jersey.  In 1975, the Tour organisers launched the young rider classification, replacing the 'combination' classification run since 1968 for 'overall best rider' based on points awarded from the general, mountain and points classification- although the combination classification was subsequently reintroduced from 1980 to 1989 inclusive. Eddy Merckx in 1969 is the only rider to win the King of the Mountains, the points and the overall title in the same year; had the combination or youth classification jerseys existed at the time, he would have won those too..
-
-
-## By year
-
-
-
-## By nationality
-
-
-
-## References
-
-
-Tables:
-
-
-Table 1:
-| Tour | Year | Points | Mountains | Youth | Notes |
-|---|---|---|---|---|---|
-| 27 | 1933 |  |  |  | Vicente Trueba |
-| 28 | 1934 |  |  |  | René Vietto |
-| 29 | 1935 |  |  |  | Félicien Vervaecke |
-| 30 | 1936 |  |  |  | Julián Berrendero |
-| 31 | 1937 |  |  |  | Félicien Vervaecke(2) |
-| 32 | 1938 |  |  |  | Gino Bartali |
-| 33 | 1939 |  |  |  | Sylvère Maes |
-| 34 | 1947 |  |  |  | Pierre Brambilla |
-| 35 | 1948 |  |  |  | Gino Bartali(2) |
-| 36 | 1949 |  |  |  | Fausto Coppi |
-| 37 | 1950 |  |  |  | Louison Bobet |
-| 38 | 1951 |  |  |  | Raphaël Géminiani |
-| 39 | 1952 |  |  |  | Fausto Coppi(2) |
-| 40 | 1953 |  | Fritz Schär |  | Jesús Loroño |
-| 41 | 1954 |  | Ferdinand Kübler |  | Federico Bahamontes |
-| 42 | 1955 |  | Stan Ockers |  | Charly Gaul |
-| 43 | 1956 |  | Stan Ockers(2) |  | Charly Gaul(2) |
-| 44 | 1957 |  | Jean Forestier |  | Gastone Nencini |
-| 45 | 1958 |  | Jean Graczyk |  | Federico Bahamontes(2) |
-| 46 | 1959 |  | André Darrigade |  | Federico Bahamontes(3) |
-| 47 | 1960 |  | Jean Graczyk(2) |  | Imerio Massignan |
-| 48 | 1961 |  | André Darrigade(2) |  | Imerio Massignan(2) |
-| 49 | 1962 |  | Rudi Altig |  | Federico Bahamontes(4) |
-| 50 | 1963 |  | Rik Van Looy |  | Federico Bahamontes(5) |
-| 51 | 1964 |  | Jan Janssen |  | Federico Bahamontes(6) |
-| 52 | 1965 |  | Jan Janssen(2) |  | Julio Jiménez |
-| 53 | 1966 |  | Willy Planckaert |  | Julio Jiménez(2) |
-| 54 | 1967 |  | Jan Janssen(3) |  | Julio Jiménez(3) |
-| 55 | 1968 |  | Franco Bitossi |  | Aurelio González Puente |
-| 56 | 1969 |  | Eddy Merckx |  | Eddy Merckx |
-| 57 | 1970 |  | Walter Godefroot |  | Eddy Merckx(2) |
-| 58 | 1971 |  | Eddy Merckx(2) |  | Lucien Van Impe |
-| 59 | 1972 |  | Eddy Merckx(3) |  | Lucien Van Impe(2) |
-| 60 | 1973 |  | Herman Van Springel |  | Pedro Torres |
-| 61 | 1974 |  | Patrick Sercu |  | Domingo Perurena |
-| 62 | 1975 |  | Rik Van Linden |  | Lucien Van Impe(3) |
-| 63 | 1976 |  | Freddy Maertens |  | Giancarlo Bellini |
-| 64 | 1977 |  | Jacques Esclassan |  | Lucien Van Impe(4) |
-| 65 | 1978 |  | Freddy Maertens(2) |  | Mariano Martínez |
-| 66 | 1979 |  | Bernard Hinault |  | Giovanni Battaglin |
-| 67 | 1980 |  | Rudy Pevenage |  | Raymond Martin |
-| 68 | 1981 |  | Freddy Maertens(3) |  | Lucien Van Impe(5) |
-| 69 | 1982 |  | Sean Kelly |  | Bernard Vallet |
-| 70 | 1983 |  | Sean Kelly(2) |  | Lucien Van Impe(6) |
-| 71 | 1984 |  | Frank Hoste |  | Robert Millar |
-| 72 | 1985 |  | Sean Kelly(3) |  | Luis Herrera |
-| 73 | 1986 |  | Eric Vanderaerden |  | Bernard Hinault |
-| 74 | 1987 |  | Jean-Paul van Poppel |  | Luis Herrera(2) |
-| 75 | 1988 |  | Eddy Planckaert |  | Steven Rooks |
-| 76 | 1989 |  | Sean Kelly(4) |  | Gert-Jan Theunisse |
-| 77 | 1990 |  | Olaf Ludwig |  | Thierry Claveyrolat |
-| 78 | 1991 |  | Djamolidine Abdoujaparov |  | Claudio Chiappucci |
-| 79 | 1992 |  | Laurent Jalabert |  | Claudio Chiappucci(2) |
-| 80 | 1993 |  | Djamolidine Abdoujaparov(2) |  | Tony Rominger |
-| 81 | 1994 |  | Djamolidine Abdoujaparov(3) |  | Richard Virenque |
-| 82 | 1995 |  | Laurent Jalabert(2) |  | Richard Virenque(2) |
-| 83 | 1996 |  | Erik Zabel |  | Richard Virenque(3) |
-| 84 | 1997 |  | Erik Zabel(2) |  | Richard Virenque(4) |
-| 85 | 1998 |  | Erik Zabel(3) |  | Christophe Rinero |
-| 86 | 1999 |  | Erik Zabel(4) |  | Richard Virenque(5) |
-| 87 | 2000 |  | Erik Zabel(5) |  | Santiago Botero |
-| 88 | 2001 |  | Erik Zabel(6) |  | Laurent Jalabert |
-| 89 | 2002 |  | Robbie McEwen |  | Laurent Jalabert(2) |
-| 90 | 2003 |  | Baden Cooke |  | Richard Virenque(6) |
-| 91 | 2004 |  | Robbie McEwen(2) |  | Richard Virenque(7) |
-| 92 | 2005 |  | Thor Hushovd |  | Michael Rasmussen |
-| 93 | 2006 |  | Robbie McEwen(3) |  | Michael Rasmussen(2) |
-| 94 | 2007 |  | Tom Boonen |  | Mauricio Soler |
-| 95 | 2008 |  | Óscar Freire |  | Carlos Sastre |
-| 96 | 2009 |  | Thor Hushovd(2) |  | Egoi Martínez |
-| 97 | 2010 |  | Alessandro Petacchi |  | Anthony Charteau |
-| 98 | 2011 |  | Mark Cavendish |  | Samuel Sánchez |
-| 99 | 2012 |  | Peter Sagan |  | Thomas Voeckler |
-| 100 | 2013 |  | Peter Sagan(2) |  | Nairo Quintana |
-| 101 | 2014 |  | Peter Sagan(3) |  | Rafał Majka |
-| 102 | 2015 |  | Peter Sagan(4) |  | Chris Froome |
-| 103 | 2016 |  | Peter Sagan(5) |  | Rafał Majka(2) |
-| 104 | 2017 |  | Michael Matthews |  | Warren Barguil |
-| 105 | 2018 |  | Peter Sagan(6) |  | Julian Alaphilippe |
-| 106 | 2019 |  | Peter Sagan(7) |  | Romain Bardet |
-| 107 | 2020 |  | Sam Bennett |  | Tadej Pogačar |
-| 108 | 2021 |  | Mark Cavendish(2) |  | Tadej Pogačar(2) |
-| 109 | 2022 |  | Wout Van Aert |  | Jonas Vingegaard |
-| 110 | 2023 |  | Jasper Philipsen |  | Giulio Ciccone |
-| 111 | 2024 |  | Biniam Girmay |  | Richard Carapaz |
-| 112 | 2025 |  | Jonathan Milan |  | Tadej Pogačar(3) |
-
-
-
-Table 2:
-| Country | Total |
-|---|---|
-| France | 9 |
-| Belgium | 21 |
-| Spain | 1 |
-| Italy | 3 |
-| Germany | 8 |
-| Netherlands | 4 |
-| Colombia | 0 |
-| Slovakia | 7 |
-| Slovenia | 0 |
-| Australia | 5 |
-| Great Britain | 2 |
-| Ireland | 5 |
-| Luxembourg | 0 |
-| Switzerland | 2 |
-| United States | 0 |
-| Uzbekistan | 3 |
-| Denmark | 0 |
-| Norway | 2 |
-| Poland | 0 |
-| Russia | 0 |
-| Eritrea | 1 |
-| Ecuador | 0 |
-| Mexico | 0 |
-| Ukraine | 0 |
-
-
-Categories: Wikimedia Commons, Tour de France winners, Lists of cyclists, Tour de France classifications and awards, Tour de France-related lists",,7125,2c0723be8l91nmgk1dwns5ksxy97n8kj6dlf4t8sf421m53qe8,9719.0,sport,Who is the most recent winner of the points classification?,51857
-2024.0,,['Tour de France 2024'],mountains classification winner,['Richard Carapaz'],who won the mountains classification?,,,,,https://en.wikipedia.org/wiki/List_of_Tour_de_France_secondary_classification_winners,True,List of Tour de France secondary classification winners,"Title: List of Tour de France secondary classification winners
-
-Content:
-The Tour de France is a road cycling stage race held since 1903 over a current period of three weeks, although it was not staged from 1915 to 1918 and from 1940 to 1946, because of the First World War and Second World War respectively.
-
-The winner of the Tour de France is determined by the general classification. In addition, there are some secondary classifications. The mountains classification, first calculated in 1933 and first associated with the polkadot jersey in 1975; 
-To celebrate the 50th anniversary of the race in 1953, the points classification was reintroduced, having previously been the main classification from 1905 to 1912 inclusive. It rewarded the consistent finishers in individual stages by awarding points depending on the placing at the end of the stage and, from 1966 onwards, at any designated intermediate points along the route. From 1966 to 1989 inclusive, a separate classification was included solely for points awarded at these intermediate 'hot spots' or 'sprints' and from 1984 onward associated with the award of a red jersey.  In 1975, the Tour organisers launched the young rider classification, replacing the 'combination' classification run since 1968 for 'overall best rider' based on points awarded from the general, mountain and points classification- although the combination classification was subsequently reintroduced from 1980 to 1989 inclusive. Eddy Merckx in 1969 is the only rider to win the King of the Mountains, the points and the overall title in the same year; had the combination or youth classification jerseys existed at the time, he would have won those too..
-
-
-## By year
-
-
-
-## By nationality
-
-
-
-## References
-
-
-Tables:
-
-
-Table 1:
-| Tour | Year | Points | Mountains | Youth | Notes |
-|---|---|---|---|---|---|
-| 27 | 1933 |  |  |  | Vicente Trueba |
-| 28 | 1934 |  |  |  | René Vietto |
-| 29 | 1935 |  |  |  | Félicien Vervaecke |
-| 30 | 1936 |  |  |  | Julián Berrendero |
-| 31 | 1937 |  |  |  | Félicien Vervaecke(2) |
-| 32 | 1938 |  |  |  | Gino Bartali |
-| 33 | 1939 |  |  |  | Sylvère Maes |
-| 34 | 1947 |  |  |  | Pierre Brambilla |
-| 35 | 1948 |  |  |  | Gino Bartali(2) |
-| 36 | 1949 |  |  |  | Fausto Coppi |
-| 37 | 1950 |  |  |  | Louison Bobet |
-| 38 | 1951 |  |  |  | Raphaël Géminiani |
-| 39 | 1952 |  |  |  | Fausto Coppi(2) |
-| 40 | 1953 |  | Fritz Schär |  | Jesús Loroño |
-| 41 | 1954 |  | Ferdinand Kübler |  | Federico Bahamontes |
-| 42 | 1955 |  | Stan Ockers |  | Charly Gaul |
-| 43 | 1956 |  | Stan Ockers(2) |  | Charly Gaul(2) |
-| 44 | 1957 |  | Jean Forestier |  | Gastone Nencini |
-| 45 | 1958 |  | Jean Graczyk |  | Federico Bahamontes(2) |
-| 46 | 1959 |  | André Darrigade |  | Federico Bahamontes(3) |
-| 47 | 1960 |  | Jean Graczyk(2) |  | Imerio Massignan |
-| 48 | 1961 |  | André Darrigade(2) |  | Imerio Massignan(2) |
-| 49 | 1962 |  | Rudi Altig |  | Federico Bahamontes(4) |
-| 50 | 1963 |  | Rik Van Looy |  | Federico Bahamontes(5) |
-| 51 | 1964 |  | Jan Janssen |  | Federico Bahamontes(6) |
-| 52 | 1965 |  | Jan Janssen(2) |  | Julio Jiménez |
-| 53 | 1966 |  | Willy Planckaert |  | Julio Jiménez(2) |
-| 54 | 1967 |  | Jan Janssen(3) |  | Julio Jiménez(3) |
-| 55 | 1968 |  | Franco Bitossi |  | Aurelio González Puente |
-| 56 | 1969 |  | Eddy Merckx |  | Eddy Merckx |
-| 57 | 1970 |  | Walter Godefroot |  | Eddy Merckx(2) |
-| 58 | 1971 |  | Eddy Merckx(2) |  | Lucien Van Impe |
-| 59 | 1972 |  | Eddy Merckx(3) |  | Lucien Van Impe(2) |
-| 60 | 1973 |  | Herman Van Springel |  | Pedro Torres |
-| 61 | 1974 |  | Patrick Sercu |  | Domingo Perurena |
-| 62 | 1975 |  | Rik Van Linden |  | Lucien Van Impe(3) |
-| 63 | 1976 |  | Freddy Maertens |  | Giancarlo Bellini |
-| 64 | 1977 |  | Jacques Esclassan |  | Lucien Van Impe(4) |
-| 65 | 1978 |  | Freddy Maertens(2) |  | Mariano Martínez |
-| 66 | 1979 |  | Bernard Hinault |  | Giovanni Battaglin |
-| 67 | 1980 |  | Rudy Pevenage |  | Raymond Martin |
-| 68 | 1981 |  | Freddy Maertens(3) |  | Lucien Van Impe(5) |
-| 69 | 1982 |  | Sean Kelly |  | Bernard Vallet |
-| 70 | 1983 |  | Sean Kelly(2) |  | Lucien Van Impe(6) |
-| 71 | 1984 |  | Frank Hoste |  | Robert Millar |
-| 72 | 1985 |  | Sean Kelly(3) |  | Luis Herrera |
-| 73 | 1986 |  | Eric Vanderaerden |  | Bernard Hinault |
-| 74 | 1987 |  | Jean-Paul van Poppel |  | Luis Herrera(2) |
-| 75 | 1988 |  | Eddy Planckaert |  | Steven Rooks |
-| 76 | 1989 |  | Sean Kelly(4) |  | Gert-Jan Theunisse |
-| 77 | 1990 |  | Olaf Ludwig |  | Thierry Claveyrolat |
-| 78 | 1991 |  | Djamolidine Abdoujaparov |  | Claudio Chiappucci |
-| 79 | 1992 |  | Laurent Jalabert |  | Claudio Chiappucci(2) |
-| 80 | 1993 |  | Djamolidine Abdoujaparov(2) |  | Tony Rominger |
-| 81 | 1994 |  | Djamolidine Abdoujaparov(3) |  | Richard Virenque |
-| 82 | 1995 |  | Laurent Jalabert(2) |  | Richard Virenque(2) |
-| 83 | 1996 |  | Erik Zabel |  | Richard Virenque(3) |
-| 84 | 1997 |  | Erik Zabel(2) |  | Richard Virenque(4) |
-| 85 | 1998 |  | Erik Zabel(3) |  | Christophe Rinero |
-| 86 | 1999 |  | Erik Zabel(4) |  | Richard Virenque(5) |
-| 87 | 2000 |  | Erik Zabel(5) |  | Santiago Botero |
-| 88 | 2001 |  | Erik Zabel(6) |  | Laurent Jalabert |
-| 89 | 2002 |  | Robbie McEwen |  | Laurent Jalabert(2) |
-| 90 | 2003 |  | Baden Cooke |  | Richard Virenque(6) |
-| 91 | 2004 |  | Robbie McEwen(2) |  | Richard Virenque(7) |
-| 92 | 2005 |  | Thor Hushovd |  | Michael Rasmussen |
-| 93 | 2006 |  | Robbie McEwen(3) |  | Michael Rasmussen(2) |
-| 94 | 2007 |  | Tom Boonen |  | Mauricio Soler |
-| 95 | 2008 |  | Óscar Freire |  | Carlos Sastre |
-| 96 | 2009 |  | Thor Hushovd(2) |  | Egoi Martínez |
-| 97 | 2010 |  | Alessandro Petacchi |  | Anthony Charteau |
-| 98 | 2011 |  | Mark Cavendish |  | Samuel Sánchez |
-| 99 | 2012 |  | Peter Sagan |  | Thomas Voeckler |
-| 100 | 2013 |  | Peter Sagan(2) |  | Nairo Quintana |
-| 101 | 2014 |  | Peter Sagan(3) |  | Rafał Majka |
-| 102 | 2015 |  | Peter Sagan(4) |  | Chris Froome |
-| 103 | 2016 |  | Peter Sagan(5) |  | Rafał Majka(2) |
-| 104 | 2017 |  | Michael Matthews |  | Warren Barguil |
-| 105 | 2018 |  | Peter Sagan(6) |  | Julian Alaphilippe |
-| 106 | 2019 |  | Peter Sagan(7) |  | Romain Bardet |
-| 107 | 2020 |  | Sam Bennett |  | Tadej Pogačar |
-| 108 | 2021 |  | Mark Cavendish(2) |  | Tadej Pogačar(2) |
-| 109 | 2022 |  | Wout Van Aert |  | Jonas Vingegaard |
-| 110 | 2023 |  | Jasper Philipsen |  | Giulio Ciccone |
-| 111 | 2024 |  | Biniam Girmay |  | Richard Carapaz |
-| 112 | 2025 |  | Jonathan Milan |  | Tadej Pogačar(3) |
-
-
-
-Table 2:
-| Country | Total |
-|---|---|
-| France | 9 |
-| Belgium | 21 |
-| Spain | 1 |
-| Italy | 3 |
-| Germany | 8 |
-| Netherlands | 4 |
-| Colombia | 0 |
-| Slovakia | 7 |
-| Slovenia | 0 |
-| Australia | 5 |
-| Great Britain | 2 |
-| Ireland | 5 |
-| Luxembourg | 0 |
-| Switzerland | 2 |
-| United States | 0 |
-| Uzbekistan | 3 |
-| Denmark | 0 |
-| Norway | 2 |
-| Poland | 0 |
-| Russia | 0 |
-| Eritrea | 1 |
-| Ecuador | 0 |
-| Mexico | 0 |
-| Ukraine | 0 |
-
-
-Categories: Wikimedia Commons, Tour de France winners, Lists of cyclists, Tour de France classifications and awards, Tour de France-related lists",,7125,2c0723be8l91nmgk1dwns5ksxy97n8kj6dlf4t8sf421m53qe8,9719.0,sport,Who is the recent winner of the mountains classification?,51857
+Categories: Tour de France classifications and awards, Cycling jerseys, CS1 Dutch-language sources (nl), CS1 French-language sources (fr), All articles with dead external links",,6855,63itqcl85vwpibv916uqoay1e1tn17hct9cs9x926tcse188ae,29669,sport,Who won the most recent Tour de France combativity award?,46267

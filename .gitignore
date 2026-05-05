@@ -1,3 +1,5 @@
 __pycache__/
 *.py[cod]
-data/
+data/final/ChronosAlign_old.parquet
+data/final/ChronosAlign_sample200.csv
+data/final/ChronosAlign.parquet
