@@ -114,6 +114,7 @@ class AIQuestionGenerator(LoggerMixin):
                 response = self.client.messages.create(
                     model=self.model,
                     max_tokens=max_tokens,
+                    thinking={"type": "disabled"},
                     system=system_prompt,
                     messages=[{"role": "user", "content": formatted_user_prompt}],
                 )
@@ -651,6 +652,7 @@ class AIQuestionGenerator(LoggerMixin):
                 params=MessageCreateParamsNonStreaming(
                     model=self.model,
                     max_tokens=max_tokens,
+                    thinking={"type": "disabled"},
                     system=system_prompt,
                     messages=[{"role": "user", "content": formatted_user_prompt}],
                 ),
