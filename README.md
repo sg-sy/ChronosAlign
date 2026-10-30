@@ -181,7 +181,9 @@ Updates question-variant (`qv`) answers using current Wikipedia data so final re
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+The code in this repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License does not cover data. The ChronosAlign dataset is distributed under the terms stated on its [Hugging Face dataset card](https://huggingface.co/datasets/sg-sy/ChronosAlign). Its source material keeps its original terms: Wikipedia text, including the text in `sample_data/`, is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), and Wikidata structured data is available under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Citation
 
