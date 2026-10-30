@@ -5,6 +5,19 @@ This repository contains scripts to extract time-sensitive question-answer relat
 
 > **Note:** To test the update procedure, go to `6. update_qv_answers.ipynb`.
 
+## Dataset
+
+The ChronosAlign dataset is published on Hugging Face:
+
+**https://huggingface.co/datasets/sg-sy/ChronosAlign**
+
+Download it and place the files in `data/final/`. The notebooks read from that
+directory, so you do not need to run steps `1`-`5` to work with the dataset.
+
+```bash
+# huggingface-hub is already in requirements.txt
+hf download sg-sy/ChronosAlign --repo-type dataset --local-dir data/final
+```
 
 ## Environment Variables (`.env`)
 
@@ -84,7 +97,7 @@ ChronosAlign/
 └── README.md
 ```
 
-`data/` directories are output folders and may not exist in a fresh clone. If they are missing, create them manually or update paths in the scripts/notebooks to match your local directory structure.
+`data/` directories are output folders and may not exist in a fresh clone. If they are missing, create them manually or update paths in the scripts/notebooks to match your local directory structure. The dataset downloaded from [Hugging Face](https://huggingface.co/datasets/sg-sy/ChronosAlign) belongs in `data/final/`.
 
 ## Features
 
@@ -111,10 +124,8 @@ pip install -e .
 # Create expected output directories (if missing)
 mkdir -p data/raw data/processed data/final
 
-# Download ChronosAlign dataset and place the files in data/final/
-# https://huggingface.co/datasets/sg-sy/ChronosAlign
-
-
+# Download the ChronosAlign dataset into data/final/ (see the Dataset section above)
+hf download sg-sy/ChronosAlign --repo-type dataset --local-dir data/final
 ```
 
 ## Usage
@@ -127,7 +138,7 @@ This notebook updates existing questions with current data from Wikipedia so que
 
 Recommended use:
 - This notebook is independent of steps `1`-`5`
-- Most users can download the dataset from Hugging Face and run this notebook directly
+- Most users can download the dataset from [Hugging Face](https://huggingface.co/datasets/sg-sy/ChronosAlign) and run this notebook directly
 - Export the updated dataset for evaluation/training inputs that require the latest `qv` answers
 
 ### Full Pipeline (Run in Order)
